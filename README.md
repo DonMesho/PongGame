@@ -1,5 +1,5 @@
 # PongGame
-Pong game made in the monogame framework.
+A two player pong game made in the monogame framework.
 
 This game was made to get used to the various syntax of C# and become familiar with the monogame framework.
 
